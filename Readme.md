@@ -1,6 +1,5 @@
 # Asset Tracker
 
-![alt text](https://user-images.githubusercontent.com/5191208/38627433-927cb434-3dcc-11e8-818d-a9f197937bfb.png)
 
 It is a product to analyse our assests. Features provided by this product are as below:
 - Dashboard of all assets.
